@@ -11,6 +11,7 @@ I'm currently studying at 42 Barcelona, a project-oriented computer science scho
 * [Minishell](https://github.com/onchainjavi/minishell) My own shell using bash as reference.
 
 ### Hit me with any questions about the projects 🔮
+https://es.linkedin.com/in/javier-marinel-lo-lamiel
 
 <!---
 onchainjavi/onchainjavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
