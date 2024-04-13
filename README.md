@@ -1,6 +1,6 @@
 ### Hola! My name is Javi 👋
 
-I'm a Software Developer with a solid foundation in C, C++ and Javascript. I have a background in Sound Engineering, Music and Blockchain.   
+I'm a Software Developer with a solid foundation in C, C++, Javascript and Solidity. I have a background in Sound Engineering, Music and Blockchain.   
 
 I'm currently studying at 42 Barcelona, a project-oriented computer science school distinguished for its unique peer-to-peer learning method, where I was able to improve on soft skills like communication, teamwork, self-learning, and critical thinking.
 
